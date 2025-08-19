@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ffc000;
+  --color-secondary: #fff7e0;
+  --color-background-grey: #f1f7f7;
+  --color-background-dark-blue: #003946;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
